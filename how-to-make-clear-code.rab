@@ -185,6 +185,7 @@ Period.\n
   # blockquote
   ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
   れは異常な状態だよね。
+
   だれかに相談するとか気分転換するとか方向性を変えてみるとかした方がい
   いよね。
 
@@ -250,6 +251,8 @@ Period.\n
   (2) 当たり前にする(('note:(Make natural)'))
       * 書く・読む(('note:(Write and Read)'))
   (3) コードで伝える(('note:(Communicate by code)'))
+      * ((*書く・読む・書く*))(('note:(Write, Read, Write)'))
+
 = 書く\n(('note:(Write)'))
 
   # blockquote
