@@ -27,7 +27,6 @@ Period.\n
 (('wait'))
 自然なコード\n
 (('note:(Natural code)'))
-
 = クリアなコード\n(('note:(Clear code)'))
 
   # blockquote
@@ -39,46 +38,176 @@ Period.\n
 
 = クリアなコードと私\n(('note:(Clear code and I)'))
 
-  * (('wait'))とても大事にしていること\n
-    (('note:(It's very important to me)'))
-  * (('wait'))だから会社の名前にもした\n
-    (('note:(So we use it as our company name)'))
-  * (('wait'))そしてスポンサーをしている\n
-    (('note:(Our company sponsors Sapporo RubyKaigi 2012)'))
+とても\n大事にしていること\n
+(('note:(It's very important to me)'))
 
-= どうして？\n(('note:(Why should we write clear code?)'))
+= どうして？\n(('note:(Why should we code clear code?)'))
 
-  * ふつうの理由
-    * 簡単に修正・改良できるように
-  * (('wait'))私の理由
-    * たのしく開発を続けるため
+たのしく開発を続けたいから\n
+(('note:(Because I want to keep developing in a joyful way)'))
 
-= たのしくない開発\n(('note:()'))
+= 私\n(('note:(Me)'))
 
-  * 思ったように書けない
-  * (('wait'))汚くなっていくコード
-    * 直しても直しても他の人が汚していく
-    * 掃除しているそばから\n
-      ゴミを捨てられているよう
+プログラミングが好き\n
+(('note:(I love programming)'))
 
-= 続けられない！
+= 開発\n(('note:(Development)'))
 
-= どうしてクリアなコード？\n(('note:(Why should we write clear code?)'))
+たのしい\n
+(('note:(Joyful)'))
 
-たのしく開発を続けたいから
+= たのしくない開発\n(('note:(Jeyless development)'))
+汚れていく\nコード\n
+(('note:(Code gets dirty...)'))
+
+= 汚れていくコード\n(('note:(Code gets dirty...)'))
+
+  * 直しても直しても\n
+    他の人が汚していく\n
+    (('note:(I clean codes but others make codes dirty...)'))
+  * 掃除しているそばから\n
+    ゴミを捨てられているよう\n
+    (('note:(Like ... I can't translate it... :<)'))
+
+= 続けられない！\n(('note:I can't keep developing!'))
+
+= どうしてクリアなコード？\n(('note:(Why should we code clear code?)'))
+
+たのしく開発を続けたいから\n
+(('note:(Because I want to keep developing in a joyful way)'))
+
+= どうしてこのトークを？\n(('note:(Why do I this talk?)'))
+
+みんなも\nクリアなコード\n書いて！\nたのしいから！\n
+(('note:(Please code clear code! It's joyful!)'))
+
+= We Code.
+
+= ((*C*))ode ((*C*))lear ((*C*))ode
 
 = クリアなコードの作り方\n(('note:(How to make clear code)'))
 
-(('wait'))
-We Code.\n
-Period.\n
-(('note:（以上）'))
+  * みんなでクリアなコードにする\n
+    (('note:(We make clear code)'))
+    * 他の人のことを考えて書く\n
+      (('note:(Write codes for others)'))
+    * 他の人のコードを読む\n
+      (('note:(Read codes by others)'))
 
-= どういうこと？\n(('note:(What does it mean?)'))
+== メモ
+=== どういうこと？\n(('note:(What does it mean?)'))
 
 文化にしよう！
 
-= どう\nやって？\n(('note:(How to do it?)'))
+== メモ
+
+  # blockquote
+  人と一緒にコードを書いて、\n
+  人のコードを見て\n
+  プログラマーは\n
+  良くなっていくんだ
+
+(('tag:center'))
+(('note:札幌Ruby会議02に行ってみて初心に帰った'))\n
+(('note:http://adzuki34.blogspot.jp/2009/12/ruby02.html'))
+
+= 解説参照
+
+  # image
+  # src = readable-code.jpeg
+  # relative_height = 90
+  # reflect_ratio = 0.3
+
+= リーダブルコードの解説\n(('note:(The comment of readable code)'))
+
+  (1) 実際にやる\n
+      (('note:(Do it)'))
+  (2) 当たり前にする\n
+      (('note:(Make coding readable code natural)'))
+  (3) コードで伝える\n
+      (('note:(Communicate by readable code)'))
+
+(('tag:center'))
+(('note:CC BB-NC-SA 3.0で公開されている'))\n
+(('note:You can translate it into English!!!'))\n
+(('note:http://www.clear-code.com/blog/2012/6/11.html'))
+
+= リーダブルコードの解説
+
+  (1) 実際にやる(('note:(Do it)'))
+      * 書く(('note:(Write)'))
+  (2) 当たり前にする(('note:(Make natural)'))
+      * 書く・読む(('note:(Write and Read)'))
+  (3) コードで伝える(('note:(Communicate by code)'))
+      * 書く・読む・書く(('note:(Write, Read and Write)'))
+
+= リーダブルコードの解説
+
+  (1) 実際にやる(('note:(Do it)'))
+      * ((*書く*))(('note:(Write)'))
+  (2) 当たり前にする(('note:(Make natural)'))
+      * 書く・読む(('note:(Write and Read)'))
+  (3) コードで伝える(('note:(Communicate by code)'))
+      * 書く・読む・書く(('note:(Write, Read and Write)'))
+
+= 自分が動く\n(('note:(YOU do it)'))
+
+  # blockquote
+  成長したいなら、それも早く成長したいなら、すごい人と一緒になれる環境
+  に行きたいとか言っていちゃ遅いと思うんだ。
+  一緒にいるだけじゃそんなに変わらないよ。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/27342986390'))
+
+= 自分が動く\n(('note:(YOU do it)'))
+
+  # blockquote
+
+  同じ場所で一緒に同じものを作って、振りきられないように食い下がって付
+  いていくぐらいじゃないとどこでやったって同じだよ。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/27342986390'))
+
+= 書く\n(('note:(Write)'))
+
+  # blockquote
+  本を読んでるだけじゃいいコードは書けるようにならないよ。
+
+  実際にコードを書かないとわからないことがたくさんある。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/222338170811977729'))
+
+= 書く\n(('note:(Write)'))
+
+  # blockquote
+  ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
+  れは異常な状態だよね。
+  だれかに相談するとか気分転換するとか方向性を変えてみるとかした方がい
+  いよね。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/180249583304183808'))
+
+= リーダブルコードの解説
+
+  (1) 実際にやる(('note:(Do it)'))
+      * 書く(('note:(Write)'))
+  (2) 当たり前にする(('note:(Make natural)'))
+      * ((*書く・読む*))(('note:(Write and Read)'))
+  (3) コードで伝える(('note:(Communicate by code)'))
+      * 書く・読む・書く(('note:(Write, Read and Write)'))
+
+= 書く\n(('note:(Write)'))
+
+  # blockquote
+  まわりのコードが汚くたって、自分も汚いコードを書いていい理由にはなら
+  ないんだよ。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/10565574631'))
 
 = 読む\n(('note:(Read)'))
 
@@ -87,73 +216,73 @@ Period.\n
   少なくとも自分が関わっている
   プロジェクトのコミットくらい全部読めよ！
 
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/195137471057633281'))
 == メモ
 
   * レビュー依頼されたときだけ読むの？
 
-= レビュー
+= レビュー\n(('note:(Review)'))
 
-  * 間違いをいれないため？
-  * 批判的な目で読む？
+  * 間違いをいれないため？\n
+    (('note:(Is it for blocking wrong codes?)'))
+  * 批判的な目で読む？\n
+    (('note:(I can't translate it... :<)'))
+  * 言われてやるもの？\n
+    (('note:(I can't translate it... :<)'))
 
-= コードを読むって
+= コードを読むこと\n(('note:(Reading code)'))
 
-もっと楽しいものだったんじゃないの？
+もっとたのしいものじゃないの？\n
+(('note:(Is it jolyful, isn't it?)'))
 
   * この書き方知らなかった！\n
-    いいなぁ！真似しよう！
+    いいなぁ！真似しよう！\n
+    (('note:(Wow! I didn't know the feature! I'll use it!)'))
   * おぉ！\n
-    この機能欲しかったんだよ！
+    この機能欲しかったんだよ！\n
+    (('note:(Cool! I realy like the new feature!)'))
 
-= 自分で動く
+= リーダブルコードの解説
 
-  # blockquote
-  成長したいなら、それも早く成長したいなら、すごい人と一緒になれる環境
-  に行きたいとか言っていちゃ遅いと思うんだ。
-
-  一緒にいるだけじゃそんなに変わらないよ。
-
-= 自分で動く
-
-  # blockquote
-
-  同じ場所で一緒に同じものを作って、振りきられないように食い下がって付
-  いていくぐらいじゃないとどこでやったって同じだよ。
-
-= 油断しない
+  (1) 実際にやる(('note:(Do it)'))
+      * 書く(('note:(Write)'))
+  (2) 当たり前にする(('note:(Make natural)'))
+      * 書く・読む(('note:(Write and Read)'))
+  (3) コードで伝える(('note:(Communicate by code)'))
+= 書く\n(('note:(Write)'))
 
   # blockquote
-  まわりのコードが汚くたって、自分も汚いコードを書いていい理由にはならないんだよ。
+  私たちができることはコードを書くこと。コードを通じて伝えられることは多
+  いよ。そんな当たり前のことを当たり前のように思い出した。
 
-= 書く
+(('tag:center'))
+(('note:札幌Ruby会議02に行ってみて初心に帰った'))\n
+(('note:http://adzuki34.blogspot.jp/2009/12/ruby02.html'))
 
-  # blockquote
-  本を読んでるだけじゃいいコードは書けるようにならないよ。
-
-  実際にコードを書かないとわからないことがたくさんある。
-
-= 書く
+= 書く\n(('note:(Write)'))
 
   # blockquote
-  ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
-  れは異常な状態だよね。
+  コードを書いているだけで人に影響を与えることができる人っているんだよ。
 
-  だれかに相談するとか気分転換するとか方向性を変えてみるとかした方がい
-  いよね。
+(('tag:center'))
+(('note:札幌Ruby会議02に行ってみて初心に帰った'))\n
+(('note:http://adzuki34.blogspot.jp/2009/12/ruby02.html'))
 
-= 文化にする
+= リーダブルコードの解説
 
-リーダブルコードの解説を読め:
+  (1) 実際にやる(('note:(Do it)'))
+      * 書く(('note:(Write)'))
+  (2) 当たり前にする(('note:(Make natural)'))
+      * 書く・読む(('note:(Write and Read)'))
+  (3) コードで伝える(('note:(Communicate by code)'))
+      * 書く・読む・書く(('note:(Write, Read and Write)'))
 
-  * 実際にやる
-  * 当たり前にする
-  * コードで伝える
+(('tag:center'))
+(('note:http://www.clear-code.com/blog/2012/6/11.html'))
 
 = 解説へのコメント
-
   # blockquote
-  # title = id:habuakihiroのブクマコメント
-  # cite = http://b.hatena.ne.jp/habuakihiro/20120701#bookmark-97498594
   読んだだけでその気になって終わらせるな。
 
   世界を変えたいなら自分を変えろ。諦めることを拒み続けろ。
@@ -162,14 +291,31 @@ Period.\n
 
   バタフライエフェクト。素晴らしい檄文。
 
+(('tag:center'))
+# (('note:id:habuakihiroのブクマコメント'))\n
+(('note:http://b.hatena.ne.jp/habuakihiro/20120701#bookmark-97498594'))
+
+= 道\n(('note:(Load)'))
+
+  # blockquote
+  よいプログラマへの道を歩き出したのなら、ともにその道を歩くものだと思っ
+  ています。育ててあげるという考え方はやめることにしました。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/6464335060'))
+
+= 期待する世界\n(('note:(Expected world)'))
+
+  # blockquote
+  そうか、キレイなコードを書くことが当たり前の世界になって欲しいのかも
+  しれない。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/170661011152572416'))
+
 = クリアなコードの作り方\n(('note:(How to make clear code)'))
 
 (('wait'))
 We Code.\n
 Period.\n
 (('note:（以上）'))
-
-= 期待する世界
-
-  # blockquote
-  そうか、キレイなコードを書くことが当たり前の世界になって欲しいのかもしれない。
