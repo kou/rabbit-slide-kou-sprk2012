@@ -18,4 +18,5 @@
 require "rabbit/task/slide"
 
 Rabbit::Task::Slide.new do |task|
+  task.spec.add_runtime_dependency("rabbit-theme-clear-code")
 end
