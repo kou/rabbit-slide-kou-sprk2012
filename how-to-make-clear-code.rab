@@ -28,7 +28,8 @@ Period.\n
 自然なコード\n
 (('note:(Natural code)'))
 
-= クリアなコード\n(('note:(Clear code)'))
+== メモ
+=== クリアなコード\n(('note:(Clear code)'))
 
   # blockquote
   クリアなコードっていうのは、読んだら「おぉー！」ってなるもんじゃなく
@@ -41,7 +42,9 @@ Period.\n
 = クリアなコード\n(('note:(Clear code)'))
 
   # blockquote
-  かっこよくもなければ膝を打つものでもない、自然なコード。
+  かっこよくもなければ\n
+  膝を打つものでもない、\n
+  自然なコード。
 
 (('tag:center'))
 (('note:https://twitter.com/ktou/status/199838535073808385'))
@@ -83,6 +86,7 @@ Period.\n
 
 = どうしてクリアなコード？\n(('note:(Why should we code clear code?)'))
 
+みんなで\n
 たのしく開発を続けたいから\n
 (('note:(Because I want to keep developing in a joyful way)'))
 
@@ -126,7 +130,7 @@ Period.\n
   # image
   # src = readable-code.jpeg
   # relative_height = 90
-  # reflect_ratio = 0.3
+  # reflect_ratio = 0.15
 
 = リーダブルコードの解説\n(('note:(The comment of readable code)'))
 
@@ -160,11 +164,25 @@ Period.\n
   (3) コードで伝える(('note:(Communicate by code)'))
       * 書く・読む・書く(('note:(Write, Read and Write)'))
 
-= 自分が動く\n(('note:(YOU do it)'))
+== メモ
+=== 自分が動く
 
   # blockquote
   成長したいなら、それも早く成長したいなら、すごい人と一緒になれる環境
   に行きたいとか言っていちゃ遅いと思うんだ。
+
+  一緒にいるだけじゃそんなに変わらないよ。
+
+  同じ場所で一緒に同じものを作って、振りきられないように食い下がって付
+  いていくぐらいじゃないとどこでやったって同じだよ。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/27342986390'))
+
+= 自分が動く\n(('note:(YOU do it)'))
+
+  # blockquote
+  すごい人と一緒になれる環境に行きたいとか言っていちゃ遅いと思うんだ。
 
   一緒にいるだけじゃそんなに変わらないよ。
 
@@ -191,18 +209,6 @@ Period.\n
 (('tag:center'))
 (('note:https://twitter.com/ktou/status/222338170811977729'))
 
-= 書く\n(('note:(Write)'))
-
-  # blockquote
-  ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
-  れは異常な状態だよね。
-
-  だれかに相談するとか気分転換するとか方向性を変えてみるとかした方がい
-  いよね。
-
-(('tag:center'))
-(('note:https://twitter.com/ktou/status/180249583304183808'))
-
 = リーダブルコードの解説
 
   (1) 実際にやる(('note:(Do it)'))
@@ -220,6 +226,24 @@ Period.\n
 
 (('tag:center'))
 (('note:https://twitter.com/ktou/status/10565574631'))
+
+= 書く\n(('note:(Write)'))
+
+  # blockquote
+  ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
+  れは異常な状態だよね。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/180249583304183808'))
+
+= 相談する\n(('note:(Talk)'))
+
+  # blockquote
+  だれかに相談するとか気分転換するとか方向性を変えてみるとかした方がい
+  いよね。
+
+(('tag:center'))
+(('note:https://twitter.com/ktou/status/180249583304183808'))
 
 = 読む\n(('note:(Read)'))
 
@@ -305,8 +329,6 @@ Period.\n
   世界を変えたいなら自分を変えろ。諦めることを拒み続けろ。
 
   小さくとも具体的な行動をしろ。それはこうすることだ。
-
-  バタフライエフェクト。
 
 (('tag:center'))
 # (('note:id:habuakihiroのブクマコメント'))\n
