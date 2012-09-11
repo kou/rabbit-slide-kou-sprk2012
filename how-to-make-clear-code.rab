@@ -69,7 +69,13 @@ Period.\n
 たのしい\n
 (('note:(Joyful)'))
 
-= たのしくない開発\n(('note:(Jeyless development)'))
+= たのしくない開発\n(('note:(Joyless development)'))
+
+汚いコード\n
+(('note:(Dirty code...)'))
+
+= もっとたのしくない開発\n(('note:(More joyless development)'))
+
 汚れていく\nコード\n
 (('note:(Code gets dirty...)'))
 
@@ -142,7 +148,7 @@ Period.\n
       (('note:(Communicate by readable code)'))
 
 (('tag:center'))
-(('note:CC BB-NC-SA 3.0で公開されている'))\n
+(('note:CC BY-NC-SA 3.0で公開されている'))\n
 (('note:You can translate it into English!!!'))\n
 (('note:http://www.clear-code.com/blog/2012/6/11.html'))
 
@@ -227,7 +233,7 @@ Period.\n
 (('tag:center'))
 (('note:https://twitter.com/ktou/status/10565574631'))
 
-= 書く\n(('note:(Write)'))
+= 困ったら\n(('note:(If you get a trouble)'))
 
   # blockquote
   ふつうにコードを書いているとき、1時間に1回もコミットできなかったらそ
