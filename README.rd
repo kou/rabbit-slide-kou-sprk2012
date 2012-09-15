@@ -28,3 +28,21 @@ about how I code clear code.
 
   rabbit rabbit-slide-kou-sprk2012.gem
 
+== ライセンス - License
+
+=== スライド
+
+CC BY 3.0
+
+原著作者 - Author:
+
+  * 須藤功平
+  * Kouhei Sutou
+
+=== 背景画像
+
+CC BY-ND 3.0
+
+原著作者 - Author:
+
+  * mayuco
