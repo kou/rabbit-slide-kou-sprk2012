@@ -13,7 +13,7 @@
 : allotted-time
    25m
 : theme
-   clear-code
+   .
 
 = クリアなコードの作り方\n(('note:(How to make clear code)'))
 
