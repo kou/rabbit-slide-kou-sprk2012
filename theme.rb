@@ -1,3 +1,5 @@
+sprk2012_dark_color = "#293745"
+
 add_image_path("sprk2012")
 
 @slide_logo_image_uninstall = true
@@ -10,6 +12,10 @@ background_image = "sprk2012-background-image.svg"
 @title_slide_background_image = background_image
 include_theme("slide-background-image")
 include_theme("title-slide-background-image")
+
+match(TitleSlide, "*") do |elements|
+  prop_set("foreground", sprk2012_dark_color)
+end
 
 match(TitleSlide, Author) do |authors|
   name = "float-right-author"
@@ -66,4 +72,6 @@ match(Slide) do |slides|
   last_slide.delete_post_draw_proc_by_name("image-timer")
   last_slide.margin_with(:top    => screen_y(10),
                          :bottom => screen_y(10))
+
+  last_slide.prop_set("foreground", sprk2012_dark_color)
 end
