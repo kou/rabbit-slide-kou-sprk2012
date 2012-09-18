@@ -17,6 +17,10 @@ match(TitleSlide, "*") do |elements|
   prop_set("foreground", sprk2012_dark_color)
 end
 
+match(TitleSlide, Title) do |titles|
+  prop_set("weight", "normal")
+end
+
 match(TitleSlide, Author) do |authors|
   name = "float-right-author"
 
@@ -75,3 +79,12 @@ match(Slide) do |slides|
 
   last_slide.prop_set("foreground", sprk2012_dark_color)
 end
+
+match(Slide, HeadLine) do |head_lines|
+  prop_set("weight", "normal")
+end
+
+match("**", Emphasis) do |emphases|
+  prop_set("weight", "normal")
+end
+
